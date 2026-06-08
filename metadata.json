@@ -1,0 +1,6 @@
+{
+  "name": "Gemas e Joias Florais",
+  "description": "Um ateliê digital de joias luxuosas e pedras preciosas com um requintado design floral e personalizador interativo de anéis de noivado botânicos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
